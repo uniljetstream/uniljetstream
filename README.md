@@ -68,7 +68,7 @@
   - 실시간 얼굴 인식 및 맞춤형 화장품 자동 디스펜싱
   - AI(Pytouch), Intel Geti, **Qt** , STM32, FreeRTOS
 
-- **[Intel7_simple_id_photo_maker](https://github.com/jeong7231/Intel7_simple_id_photo_maker)** - 스마트 증명사진 제작 도구 (OpenCV Project)
+- **[Intel7_simple_id_photo_maker](https://github.com/jeong7231/Intel7_simple_id_photo_maker)** - 집에서 만드는 자동 증명사진 제작 프로그램 (OpenCV Project)
   - OpenCV 기반 실시간 얼굴 검출 및 이미지 처리
   - Qt6 GUI와 콘솔 버전 제공, GrabCut 알고리즘 활용
   - 자동 수트 합성 및 다양한 배경색 지원
