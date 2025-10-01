@@ -36,7 +36,6 @@
 
 ### Tools & Frameworks
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ## 📚 My Repositories
 
