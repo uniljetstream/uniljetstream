@@ -105,7 +105,7 @@
 
 ## 📫 How to reach me
 - GitHub: [@uniljetstream](https://github.com/uniljetstream)
-- e-mail: trn01@naver.com
+- e-mail: kjhyeong7533@naver.com
 - Blog: [tistory](https://thior.tistory.com/)
 
 ---
