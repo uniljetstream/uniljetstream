@@ -40,6 +40,14 @@
 ## 📚 My Repositories
 
 ### 🔌 Embedded Systems & IoT
+- **[New Workout Plan](https://github.com/uniljetstream/New_Workout_Plan)** - 카메라 기반 실시간 자세인식 홈 트레이닝 코칭 시스템
+  - YoLo Pose 모델 기반 운동 자세 피드백
+  - ESP32(ESP-IDF, FreeRtos) 기반 가속도 센서, 스마트워치(심박수센서)
+  - Flask 기반 웹서버 및 MQTT
+  - STM32 기반 팬틸트 카메라
+  - 사용 기술 스택
+      - ESP-IDF(FreeRTOS), STM32, Flask, Yolo Pose, MQTT, I2C, SPI, UART
+        
 - **[mini-project_smart-store](https://github.com/minjuyeong/mini-project_smart-store)** - 무인 스마트 스토어 시스템 (Mini Project)
   - STM32, Arduino 기반 IoT 매장 관리 시스템
   - UART 통신, 자동문 제어, 환경 센서 모니터링
